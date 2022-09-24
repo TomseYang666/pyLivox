@@ -16,4 +16,4 @@ Livox_lvx_parser：[silug109/Livox_lvx_parser: Small repo for someone who need p
 pylvx：[Jaesirky/pylvx: lvx文件解析工具 (github.com)](https://github.com/Jaesirky/pylvx)
 
 ## 开发人员
-[<img src="https://avatars.githubusercontent.com/u/62091780?s=400&u=f754d6233a76cfa8e9d07e3b6f4a495abaf15fd6&v=4" width=100px align="center">](https://github.com/TwSphinx54) 
+[<img src="https://avatars.githubusercontent.com/u/62091780?s=400&u=f754d6233a76cfa8e9d07e3b6f4a495abaf15fd6&v=4" width=100px align="center">](https://github.com/Tomseyang666) 
