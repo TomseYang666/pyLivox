@@ -28,4 +28,4 @@ pylvx：[Jaesirky/pylvx: lvx文件解析工具 (github.com)](https://github.com/
 3. 争取开发点云重建功能
 
 ## 开发人员
-[<img src="https://avatars.githubusercontent.com/u/62091780?s=400&u=f754d6233a76cfa8e9d07e3b6f4a495abaf15fd6&v=4" width=100px align="center">](https://github.com/Tomseyang666) 
+[<img src="https://avatars.githubusercontent.com/u/62091780?s=400&u=f754d6233a76cfa8e9d07e3b6f4a495abaf15fd6&v=4" width=100px align="center">](https://github.com/Tomseyang666) [<img src="https://avatars.githubusercontent.com/u/71500467?v=4" width=100px align="center">](https://github.com/Jiangxb8) 
